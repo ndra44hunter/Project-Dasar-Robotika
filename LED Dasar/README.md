@@ -8,6 +8,6 @@
 
 ![Circuit View](https://raw.githubusercontent.com/mzrismuarf/Project-Dasar-Robotika/master/LED%20Dasar/schematic-view.png)
 
-## Tinkercad Link
+## Link Tinkercad
 
 https://www.tinkercad.com/things/3zfPo3jfnCb-led-dasar
